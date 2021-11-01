@@ -1,0 +1,147 @@
+#menu-h ul {
+    color: #42311E;
+    padding-top: 10px;
+    margin: 0px;
+    list-style: none;
+    font-size: 0.9em;
+}
+
+#menu-h ul li {
+    color: #42311E;
+    display: inline;
+}
+
+#menu-h ul li a {
+    padding: 2px 2px 2px 2px;
+    display: inline-block;
+
+    /* visual do link */
+    color: #42311E;
+    text-decoration: none;
+}
+
+h1 {
+    color: #9F9768;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.4em;
+    font-weight: 800;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+}
+
+h2 {
+    color: #9F9768;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.2em;
+    font-weight: 800;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+}
+
+h3 {
+    color: #9F9768;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.0em;
+    font-weight: 800;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+}
+
+td {
+    padding: 3px;
+}
+
+.nome_tabela{
+    color: #9F9768;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.4em;
+    font-weight: 800;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+    text-align: center;
+
+}
+.titulo_tabela {
+    color: #9F9768;
+    font-family: Montserrat, sans-serif;
+    font-size: 1.0em;
+    font-weight: 800;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+    text-align: center;
+}
+
+.celula_descricao {
+    vertical-align: top;
+    text-align: left;
+}
+
+.celula_preco {
+    vertical-align: top;
+    text-align: right;
+}
+
+.rodape_tabela{
+    font-family: Montserrat, sans-serif;
+    font-size: 1.0em;
+    font-weight: 600;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+    text-align: center;
+    background-color: #9F9768;
+}
+body {
+    background-color: #FFE7B9;
+    font-family: Montserrat, sans-serif;
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+p {
+    color: #42311E;
+    padding-top: 0.8em;
+    padding-bottom: 0.4em;
+}
+
+input{
+    font-family: Montserrat, sans-serif;
+    border:1px solid #ccc;
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom:15px;
+    margin-top:5px;
+}
+.input_nome{
+    width: 400px;
+}
+.input_email{
+    width: 500px;
+}
+.input_comentarios{
+    width: 600px;
+    height: 200px;
+}
+
+label{
+    color: #42311E;
+    font-family: Montserrat, sans-serif;
+    font-size: 1em;
+}
+
+button{
+    font-family: Montserrat, sans-serif;
+    font-size: 1em;
+    color: #ccc;
+    font-weight: 600;
+    background-color: #42311E;
+    padding: 10px 20px 10px 20px;
+}
+
+hr {
+    border: 1px solid #9F9768;
+    }
+
+figure {
+    margin: 0px;
+    padding: 0px;
+}
