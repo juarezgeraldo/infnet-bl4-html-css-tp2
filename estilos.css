@@ -111,6 +111,15 @@ input{
     margin-bottom:15px;
     margin-top:5px;
 }
+textarea{
+    font-family: Montserrat, sans-serif;
+    border:1px solid #ccc;
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom:15px;
+    margin-top:5px;
+}
+
 .input_nome{
     width: 400px;
 }
@@ -119,7 +128,6 @@ input{
 }
 .input_comentarios{
     width: 600px;
-    height: 200px;
 }
 
 label{
